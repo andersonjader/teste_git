@@ -35,3 +35,7 @@ git add .
 - caso queira enviar um específico usar o comando já citado antes
 
 git add nome_do_arquivo
+
+- para enviar a modificação/versão_nova
+
+git push origin main
