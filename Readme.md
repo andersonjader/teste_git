@@ -36,6 +36,7 @@ git add .
 
 git add nome_do_arquivo
 
+git commit -m "novo commit"
 - para enviar a modificação/versão_nova
 
 git push origin main
