@@ -42,5 +42,6 @@ git commit -m "novo commit"
 git push origin main
 
 
-- clonando um repositorio já existente
+- clonando um repositorio já existente:
+
 git clone https://github.com/andersonjader/teste_git.git nome_do_diretorio
