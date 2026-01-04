@@ -45,3 +45,11 @@ git push origin main
 - clonando um repositorio já existente:
 
 git clone https://github.com/andersonjader/teste_git.git nome_do_diretorio
+
+
+
+
+
+<pre>
+usando tag pre para a descrever algo
+</pre>
